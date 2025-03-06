@@ -14,7 +14,7 @@ function Header() {
         <input
           type="text"
           placeholder="Seacrh Games"
-          className="px-2 bg-transparent outline-none"
+          className="px-2 bg-transparent dark bg-cyan-500 outline-none"
         />
       </div>
       <div>
