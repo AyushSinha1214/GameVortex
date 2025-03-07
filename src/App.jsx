@@ -11,7 +11,7 @@ function App() {
   return (
     <div className={`${theme} ${theme == 'dark'? 'bg-[#121212]':null}` }>
       <Header/>
-      <Home/>
+      <Home/> 
       
     </div>
   );
